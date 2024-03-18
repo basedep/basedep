@@ -2,7 +2,7 @@
 
 I'm developing android apps and share it there. 
 
-I'm coding in Java and Kotlin
+I'm coding in Java, Kotlin and Dart
 
 
 
